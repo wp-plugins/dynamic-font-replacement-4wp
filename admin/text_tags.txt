@@ -1,0 +1,24 @@
+<h3>Zu ersetzende CSS/HTML-Tags festlegen</h3>
+Auf dieser Seite legen Sie fest, bei welchen Tags DFR eine Standardmäßige Schriftart 
+durch einen eigenen, installierten Font ersetzen soll.
+Um einen neuen Tag anzulegen geben Sie einfach in der obersten  Zeile den 
+gewünschten Tag ein und klicken auf "Add A New HTML-Tag".
+<br><br>
+Grundsätzlich kann mit DFR jedem CSS/HTML-Tag eine eigene, nicht standardmäßig installierte Schriftart zugeteilt werden.
+Bekannte Tags sind zum Beispiel h1, h2, oder p.
+<br><br>
+<b>Tag-Format: </b>Beim Ersetzen von Fonts in Klassen oder ID's ist auf das einzugebende Format zu achten. Soll in einer Klasse ersetzt werden,
+muss der Tagname gefolgt vom Klassenname angegeben werden.
+Beim Ersetzen in ID's muss zuerst der ID-Name gefolgt vom Tag angegeben werden.
+Einige Beispiele: 
+<br><br>
+	<b>#header h1</b> , <b>#header p</b> , <b>#footer a</b> , <b>h2.entry</b> , <b>p.entry</b>
+	<br><br>
+<b>Tip! </b>Sollten Sie denken, dass DFR bei Ihnen nicht funktioniert, geben Sie einfach zur Probe für den Tag "body" eine neue Schriftart an.
+Nun sollte Ihr gesamtes Webprojekt mit dem neuen Font angezeigt werden. Achtung! Aus Performance- und Darstellungsgründen ist im Normalbetrieb davon abzuraten.
+<br><br>
+Neben dem Tag-Feld können Sie ganz einfach den darzustellenden Font auswählen (Neue Fonts installieren Sie auf der Startseite von DFR).
+<br><br>
+Im nebenstehenden Feld "px" können Sie eine neue Fontgröße angeben (Optional). Hier darf nur der Zahlenwert für die Größe angegeben werden.
+<br><br>
+Mit Klick auf "UPD" übernehmen Sie die Einstellung. "DEL" löscht die gesamte Zeile.
