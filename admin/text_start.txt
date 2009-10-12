@@ -1,0 +1,21 @@
+<h3>Activate Dynamic Font Replacement</h3>
+Dynamic Font Replacement will be enabled. Click the checkbox then select the button "Activate DFR".
+Well Dynamic Font Replacement is turned on your site.
+<br><br>
+* jsquery must be enabled in order selectors and class tags can be replaced.
+In some templates or plugins, this library has already been activated.
+Uncheck the function, if problems occur during the presentation.
+<h3>Fonts</h3>
+The fonts are installed each displayed in a list. These fonts can use Dynamic Font Replacement on its website.
+It can be used ttf and odf_fonts. To use a new font to this must be converted.
+A conversion can be made <a href="http://cufon.shoqolate.com/generate/">here</a>.
+If the desired new font installed on your system, copy it first from the system Fonts folder
+to a different folder. Then Run the conversion.
+<br><br>
+Upload the converted font in the upload-area on the web server.
+The file will be renamed while a number. After the new font successfully transferred
+he was listed under "Installed fonts" and can be used immediately.
+<br><br>
+<b>Attention:</b> Use only fonts from which you have a right of usage.
+Use mainly open source fonts.
+<br><br>
